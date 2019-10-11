@@ -1,1 +1,32 @@
 https://docs.google.com/document/d/1xemtFhBOFeUc51kEbJNiGnqAfLfRISARj07kr2FjXzc/edit
+
+Release Plan - DataDiet - (team name) - (release name) - Sunday, December 01, 2019 - (revision number &) Oct. 8, 2019
+
+Jeremy Manalo - Ashley Cline - Eric Zamora - Kenneth Mai
+
+High Level Goals:
+- Have a settings page for personal allergies and dietary preferences that could be shared with other users
+- Be able to use a barcode scanner from the camera or photo gallery for food products
+- Have a history page for previously scanned food products
+- Be able to use text recognition for food products ingredients
+
+User stories for release: 
+  Sprint 1
+  - As an individual with allergies, I want to be able to specify my allergies for the food products I am scanning
+  - As an individual with allergies, I want to be able to share my allergies with another user who may be shopping for me
+
+  Sprint 2
+  - As an individual with allergies, I want to be able to scan a food product to be able to see its ingredients, labels, and see if my settings are found in either
+
+  Sprint 3
+  - As an individual with allergies, I want to be able to scan previous items for different preferences
+
+  Sprint 4
+  - As an individual with allergies, I want to be able to use text recognition to scan an ingredients list when the product is not found by the barcode scanner
+
+Product backlog:
+  Have information about ingredients within the scanned product
+  As a user I want to be able to retrieve more information about the scanned product ingredients
+
+Project Presentation:
+  https://docs.google.com/presentation/d/1FyUABg2-Nr4wdikdPhsQtJG_DYvFPXzlDy_b_zAHEP0/edit#slide=id.p
