@@ -1,0 +1,34 @@
+https://docs.google.com/document/d/1kKGbXB5FYt_bgCvZtQ_biIZ7IE3u8N_UT-9mwBCYDa4/edit
+
+Sprint 1 Plan - DataDiet - (team name) - (release name) - Sunday, October 20, 2019 - (revision number &) Oct. 9, 2019
+
+Jeremy Manalo - Ashley Cline - Eric Zamora - Kenneth Mai
+
+Goal: 
+Our goal is to start an iOS application that allows users to enter their allergies or dietary preferences into their settings which can be shared with other users. 
+
+Tasks:
+  User Story 1: As an individual with allergies, I want to be able to specify my allergies for the food products I am scanning.
+    Task 1: Create settings UI with dietary options like veganism, vegetarianism, pescetarianism, etc. and an allergies section that takes user input with autosuggestions.
+    Task 2: Implement the structure to the database we will be using to store the users' shared preferences with Firebase Realtime Database.
+
+  User Story 2: As an individual with allergies, I want to be able to share my allergies with another user who may be shopping for me.
+    Task 1: Set up user authentication through multiple sign-up methods such as email, Google and Facebook utilizing Firebase Authentication.
+    Task 2: Implement a sharing method which permits the use of another user’s settings for scanning.
+    Spikes: Search for a food database with ingredient information and plan scanner implementation 
+    Infrastructure Tasks: Setting up and getting familiar with Firebase
+
+Team Roles:
+  Jeremy - Product Owner, First Scrum Master, Developer
+  Ashley - Developer
+  Eric - Developer 
+  Kenneth - Developer
+
+Initial Task Assignment:
+  Jeremy - 
+  Ashley - As an individual with allergies, I want to be able to specify my allergies for the food products I am scanning. Create settings UI with dietary options like veganism, vegetarianism, pescetarianism, etc. and an allergies section that takes user input with autosuggestions.
+  Eric - As an individual with allergies, I want to be able to share my allergies with another user who may be shopping for me. Set up user authentication through multiple sign-up methods utilizing Firebase Authentication.
+  Kenneth - Should I take the second task of user story 2? Not sure how we’re distributing the work yet
+
+Scrum Times:
+
