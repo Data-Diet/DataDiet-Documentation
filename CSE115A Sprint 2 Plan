@@ -1,0 +1,72 @@
+Shared Link to Sprint 2 Plan Google Doc:
+  https://docs.google.com/document/d/1zZfL_w1W6aafh2iU1wBu8eatdzpDHmnerphZ-8p4YzQ/edit?usp=sharing
+
+Sprint 2 Plan 
+  DataDiet | Peanuts Gang | November 3, 2019 | Revision #1 | October 21, 2019
+
+Goal: 
+  We want the user to be able to log into their account, establish shareable settings, and scan food products by their barcode. 
+  We want the user to see clear warnings if any unwanted ingredients are detected in the food.
+
+User Stories / Tasks:
+
+User Story 1: As a user, I want to create an account and be able to sign in easily.
+  Task 1: Create login and sign up pages for the user to enter their information. (1 hour)
+  Task 2: Establish user authentication through Firebase so user information is stored in a database and can be found by 
+          friends. (2 hours)
+  Task 3: Allow multiple methods of logging in, including Facebook and Gmail. (2 hours)
+Total for User Story 1: 5 hours
+
+User Story 2: As an individual with unique dietary needs, I want to be able to easily set which foods I cannot/do not eat 
+              and have these preferences be accessible to a friend who may be shopping for me.
+  Task 1: Design a settings page where the user can check off certain diets, like veganism or vegetarianism, as well as input
+          allergies or intolerances if applicable. (1 hour)
+  Task 2: Store and maintain dietary settings using Firebase so they can be shared across users. (3 hours)
+  Task 3: Implement the ability for users to friend people so they can view their dietary restrictions. (1 hour)
+  Task 4: Give users the option to import their friends’ preferences into their scanner settings so they can purchase food for
+          them safely. (2 hours)
+  Task 5: Enable auto suggestions for the allergies or intolerances input to save time for users with many dietary restrictions. 
+          (1 hour)
+Total for User Story 2: 8 hours
+
+User Story 3: As a busy individual, I want to be able to quickly scan food products by their barcodes while I am shopping to 
+              see if it safe for me to eat.
+  Task 1: Be able to access user’s camera or photo album for scanning functionality. (1 hour)
+  Task 2: Use the barcode scanning API to recognize barcodes and report an error if multiple are detected at once. (1 hour)
+  Task 3: Utilize the USDA food database to obtain information about the scanned food product. (3 hours)
+  Task 4: Execute a search of the ingredients and labels found for the established dietary settings. (2 hours)
+  Task 5: Construct a clean product details page with search bar which clearly reports to the user any ingredients or labels 
+          that match their settings and allows them to search through the food information. (2 hours)
+Total for User Story 3: 9 hours
+
+Team Roles: 
+  Jeremy: Product Owner, Developer
+  Ashley: Scrum Master, Developer
+  Eric: Developer
+  Kenneth: Developer
+
+Initial Task Assignment:
+  Jeremy:
+      As a busy individual, I want to be able to quickly scan food products by their barcodes while I am shopping to see if it
+      safe for me to eat.
+      Use the barcode scanning API to recognize barcodes and report an error if multiple are detected at once.
+  Ashley:
+      As an individual with unique dietary needs, I want to be able to easily set which foods I cannot/do not eat and have 
+      these preferences be accessible to a friend who may be shopping for me.
+      Store and maintain dietary settings using Firebase so they can be shared across users.
+  Eric:
+      As a user, I want to create an account and be able to sign in easily.
+      Establish user authentication through Firebase so user information is stored in a database and can be found by friends.
+  Kenneth:
+      As an individual with unique dietary needs, I want to be able to easily set which foods I cannot/do not eat and have 
+      these preferences be accessible to a friend who may be shopping for me.
+      Implement the ability for users to friend people so they can view their dietary restrictions.
+
+Initial Scrum Board / Burnup Chart:
+  Being created and updated on Jira, an online agile development tool.
+
+Scrum Times:
+  Monday - 1:30 pm @ BE Lab or S&E Library
+  Tuesday - 5:00 pm @ BE Lab or McHenry Library
+  Wednesday - 1:30 pm @ BE Lab or S&E Library
+  Thursday - 6:00 pm @ BE302 with TA
